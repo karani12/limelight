@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "userroles",
+  "info": {
+    "name": "userrole"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
