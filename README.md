@@ -1,3 +1,3 @@
-# Strapi application
+# API
 
-A quick description of your strapi application
+
